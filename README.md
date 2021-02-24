@@ -29,7 +29,7 @@ Project in progress. Readme will be coming soon.
 </details>
 
 <details>
-  <summary>Opis telco customer churn</summary>
+  <summary>One Hot Encoding</summary>
   One Hot Encoding is a process in the data processing that is applied to categorical data, to convert it into a binary vector representation for use in machine learning algorithms.
 
 </details>
