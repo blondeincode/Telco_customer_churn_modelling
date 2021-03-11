@@ -46,10 +46,10 @@ File in the repository:
 ### Machine learning algorithms used and their prediction accuracy
 
 Model | Score
--------------------- | --------
-Logistic Regression  | 80.03
-Support Vector       | 79.37
-Random Forest        | 78.75
-K-Nearest Neighbor   | 76.43
-Decision Tree        | 72.36
+---------------------- | --------
+Logistic Regression    | 80.03
+Support Vector Machine | 79.37
+Random Forest          | 78.75
+K-Nearest Neighbor     | 76.43
+Decision Tree          | 72.36
 
