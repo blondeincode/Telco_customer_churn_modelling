@@ -6,9 +6,18 @@ File in the repository:
 
 :point_right: [Telco_Customer_Churn_Modelling.ipynb - Link to Google Colab](https://colab.research.google.com/github/blondeincode/Telco_customer_churn_modelling/blob/main/Telco_Customer_Churn_Modelling.ipynb)
 
+## Project Overview
+
+* generated a basic report on the input data frame using pandas_profiling;
+* missing data in the 'TotalCharges' column have been supplemented with the median value in this column;
+* data visualizations were created;
+* data was divided into training data (70%) and testing data (30%);
+* the following machine learning methods were tested: logistic regression, support vector machine, random forest, k-nearest neighbor, decision tree;
+* churn probability for each client was calculated.
+
 ## Data was downloaded from the website [kaggle.com](https://www.kaggle.com/blastchar/telco-customer-churn)
 
-<details open>
+<details>
   <summary><b>Description of the churn set</b></summary>
   
 + customerID - customer identification number
@@ -34,8 +43,13 @@ File in the repository:
 + churn - whether the client has left or not
 </details>
 
-<details>
-  <summary>One Hot Encoding</summary>
-  One Hot Encoding is a process in the data processing that is applied to categorical data, to convert it into a binary vector representation for use in machine learning algorithms.
+### Machine learning algorithms used and their prediction accuracy
 
-</details>
+Model | Score
+-------------------- | --------
+Logistic Regression  | 80.03
+Support Vector       | 79.37
+Random Forest        | 78.75
+K-Nearest Neighbor   | 76.43
+Decision Tree        | 72.36
+
