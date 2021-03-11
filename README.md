@@ -1,6 +1,10 @@
-# Telco_customer_churn_modelling
-Project in progress. Readme will be coming soon.
+# Telco customer churn modelling
+Analysis of the factors that could have an impact on customer churn from the telecom operator.
+An attempt to predict which customers may opt out of the telecommunications operator's services.
 
+File in the repository:
+
+:point_right: [Telco_Customer_Churn_Modelling.ipynb - Link to Google Colab](https://colab.research.google.com/github/blondeincode/Telco_customer_churn_modelling/blob/main/Telco_Customer_Churn_Modelling.ipynb)
 
 <details open>
   <summary><b>Description of the churn set</b></summary>
