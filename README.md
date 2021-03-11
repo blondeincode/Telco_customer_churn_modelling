@@ -6,6 +6,8 @@ File in the repository:
 
 :point_right: [Telco_Customer_Churn_Modelling.ipynb - Link to Google Colab](https://colab.research.google.com/github/blondeincode/Telco_customer_churn_modelling/blob/main/Telco_Customer_Churn_Modelling.ipynb)
 
+## Data was downloaded from the website [kaggle.com](https://www.kaggle.com/blastchar/telco-customer-churn)
+
 <details open>
   <summary><b>Description of the churn set</b></summary>
   
